@@ -1,0 +1,20 @@
+﻿.logo	{
+font-family:San-serif;
+font-size:32px;
+color:#428bca;
+font-weight:bold;
+}
+.btn.btn-primary:hover	{
+color:black;
+}
+.preview-panel .preview-panel-content {
+    padding: 30px 15px;
+	background:#428bca;
+}
+.preview-panel .preview-panel-content .btn:hover {
+    border-color: #d5d5d5;
+}
+.preview-panel .preview-panel-content .btn {
+    font-size: 11px;
+    border-color: #eeeeee;
+}
